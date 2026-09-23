@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "AUTORIA",
+			"path": "../../AUTORIA"
+		},
+		{
+			"name": "AUTORIA 2.0",
+			"path": "../../AUTORIA 2.0"
+		},
+		{
+			"name": "AUTORIA 3.0",
+			"path": "../../AUTORIA 3.0"
+		},
+		{
+			"path": "../../AUTORIA 4.0"
+		},
+		{
+			"path": "../../AUTORIA 5.0"
+		},
+		{
+			"path": "../../DESING & AUTORIA"
+		},
+		{
+			"path": "../../POO 2"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../DESIGN-WEB"
+		}
+	],
+	"settings": {}
+}
